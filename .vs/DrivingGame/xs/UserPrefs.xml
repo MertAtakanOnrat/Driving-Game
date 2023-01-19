@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{186ADD54-0A65-2D63-3EB6-0B0152027FDF}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fdf25b56-4368-4f1a-bdd3-041679efaa4a" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Car.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Car.cs" Line="34" Column="6" />
+      <File FileName="Assets/Scripts/ScoreSystem.cs" />
+      <File FileName="Assets/Scripts/MainMenu.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DrivingGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
