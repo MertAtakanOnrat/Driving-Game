@@ -70,5 +70,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-/[Aa]ssets/PolygonPrototype/*
-/[Aa]ssets/TextMesh Pro/*
+/[Aa]ssets/PolygonPrototype/PolygonPrototype/Shaders/Prototype_Glass_Global.shader
+/[Aa]Assets/PolygonPrototype/PolygonPrototype/Shaders/Prototype_Global.shader
